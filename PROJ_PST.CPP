@@ -252,7 +252,7 @@ void open_page()
  /* output a message */
  outtextxy(midx, 3*midy," VIP TICKETING");
 
- delay(1000);
+ delay(3000);
  /* clean up */
  closegraph();
 }
